@@ -14,7 +14,7 @@ pygame.mixer.init()
 soundtracks = {
     'ItsATrap': 'ItsATrap.mp3',
     'StarWarsTheme': 'Limewired.mp3',
-    'Cursed': 'Ragrets.mp3',
+    'Motivate': 'motivate.mp3',
     'Cowbell': 'Cowbell.mp3'
 }
 
