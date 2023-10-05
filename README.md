@@ -1,5 +1,5 @@
 # Blinkenlights
-No telnet, completely offline with python3
+No telnet blinkenlights, completely offline with python3, now you too can witness star wars IV in all its ASCII glory
 
 
 First off, Howdy
