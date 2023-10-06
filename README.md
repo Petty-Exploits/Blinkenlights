@@ -5,8 +5,7 @@ No telnet blinkenlights, completely offline with python3, now you too can witnes
 First off, Howdy
 
 Requirements:
-[Python3, pygame]
-Ima need you to go ahead and 'pip3 install pygame' so you can get the full 
+pip3 install -r requirements.txt 
 experience otherwise the vanilla version NerdAlert1.0.py Should work as long as you have python installed
 
 Version 2.0 has the starwars soundtrack
